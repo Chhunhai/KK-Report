@@ -718,6 +718,7 @@ namespace Report.Dataset {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "15.0.0.0")]
+<<<<<<< HEAD
             public global::System.Data.DataColumn market_priceColumn {
                 get {
                     return this.columnmarket_price;
@@ -774,6 +775,8 @@ namespace Report.Dataset {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "15.0.0.0")]
+=======
+>>>>>>> c718af109da637a36fbf1513676ebe67ad8bf5f9
             [global::System.ComponentModel.Browsable(false)]
             public int Count {
                 get {
@@ -1835,6 +1838,7 @@ namespace Report.Dataset {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "15.0.0.0")]
+<<<<<<< HEAD
             public string market_price {
                 get {
                     try {
@@ -1947,6 +1951,8 @@ namespace Report.Dataset {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "15.0.0.0")]
+=======
+>>>>>>> c718af109da637a36fbf1513676ebe67ad8bf5f9
             public bool IsidNull() {
                 return this.IsNull(this.tableStockDS.idColumn);
             }

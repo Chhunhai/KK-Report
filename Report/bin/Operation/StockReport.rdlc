@@ -1792,6 +1792,7 @@
                                   <Style>
                                     <FontFamily>Gill Sans MT</FontFamily>
                                     <FontSize>9pt</FontSize>
+                                    <Format>dd-MMM-yyyy</Format>
                                     <Color>=IIF(Fields!status.Value = "Late", "Red", "Black")</Color>
                                   </Style>
                                 </TextRun>
